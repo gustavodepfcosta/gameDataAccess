@@ -1,0 +1,14 @@
+/home/gustavo.fcosta/Documentos/Personal/repositories/GameDataParser/bin/Debug/net8.0/GameDataParser
+/home/gustavo.fcosta/Documentos/Personal/repositories/GameDataParser/bin/Debug/net8.0/GameDataParser.deps.json
+/home/gustavo.fcosta/Documentos/Personal/repositories/GameDataParser/bin/Debug/net8.0/GameDataParser.runtimeconfig.json
+/home/gustavo.fcosta/Documentos/Personal/repositories/GameDataParser/bin/Debug/net8.0/GameDataParser.dll
+/home/gustavo.fcosta/Documentos/Personal/repositories/GameDataParser/bin/Debug/net8.0/GameDataParser.pdb
+/home/gustavo.fcosta/Documentos/Personal/repositories/GameDataParser/obj/Debug/net8.0/GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo.fcosta/Documentos/Personal/repositories/GameDataParser/obj/Debug/net8.0/GameDataParser.AssemblyInfoInputs.cache
+/home/gustavo.fcosta/Documentos/Personal/repositories/GameDataParser/obj/Debug/net8.0/GameDataParser.AssemblyInfo.cs
+/home/gustavo.fcosta/Documentos/Personal/repositories/GameDataParser/obj/Debug/net8.0/GameDataParser.csproj.CoreCompileInputs.cache
+/home/gustavo.fcosta/Documentos/Personal/repositories/GameDataParser/obj/Debug/net8.0/GameDataParser.dll
+/home/gustavo.fcosta/Documentos/Personal/repositories/GameDataParser/obj/Debug/net8.0/refint/GameDataParser.dll
+/home/gustavo.fcosta/Documentos/Personal/repositories/GameDataParser/obj/Debug/net8.0/GameDataParser.pdb
+/home/gustavo.fcosta/Documentos/Personal/repositories/GameDataParser/obj/Debug/net8.0/GameDataParser.genruntimeconfig.cache
+/home/gustavo.fcosta/Documentos/Personal/repositories/GameDataParser/obj/Debug/net8.0/ref/GameDataParser.dll
